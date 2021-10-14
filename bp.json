@@ -1,0 +1,43 @@
+{
+	"producer_account_name": "protonmoon",
+	"org": {
+		"candidate_name": "Proton Moon",
+		"website": "https://snowyterror.github.io/protonmoon/",
+		"code_of_conduct": "https://snowyterror.github.io/protonmoon/",
+		"email": "protonasia0@gmail.com",
+		"ownership_disclosure": "https://snowyterror.github.io/protonmoon/ownership",
+		"branding": {
+			"logo_256": "https://snowyterror.github.io/protonmoon/logo_256.png",
+			"logo_1024": "https://snowyterror.github.io/protonmoon/logo_1024.png",
+			"logo_svg": ""
+		},
+		"location": {
+			"name": "Belfast",
+			"country": "GB",
+			"latitude": 54.5973,
+			"longitude": 5.9301
+		},
+		"social": {
+			"steemit": "",
+			"twitter": "",
+			"youtube": "",
+			"facebook": "",
+			"github": "",
+			"reddit": "",
+			"keybase": "",
+			"telegram": "",
+			"wechat": "1"
+		}
+	},
+	"nodes": [
+		{
+			"location": {
+				"name": "Belfast",
+				"country": "GB",
+				"latitude": 54.5973,
+				"longitude": 5.9301
+			},
+			"node_type": "producer"
+		}
+	]
+}
