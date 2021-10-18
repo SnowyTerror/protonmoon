@@ -18,15 +18,8 @@
 			"longitude": 5.9301
 		},
 		"social": {
-			"steemit": "",
 			"twitter": "proton_moon",
-			"youtube": "",
-			"facebook": "",
-			"github": "",
-			"reddit": "",
-			"keybase": "",
-			"telegram": "protonmoon",
-			"wechat": ""
+			"telegram": "protonmoon"
 		}
 	},
 	"nodes": [
