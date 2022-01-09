@@ -42,7 +42,7 @@
 				"longitude": 5.9301
 			},
 			"api_endpoint": "http://apimainnet.protonmoon.com:8887",
-			"ssl_endpoint": "http://apimainnet.protonmoon.com:8847",
+			"ssl_endpoint": "http://apimainnet.protonmoon.com:8837",
 			"node_type": "query",
 			"features": [
 				"chain-api"
