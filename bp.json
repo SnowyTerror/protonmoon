@@ -12,10 +12,10 @@
 			"logo_svg": "https://protonmoon.com/logo_bp.svg"
 		},
 		"location": {
-			"name": "Belfast",
+			"name": "Glasgow",
 			"country": "GB",
-			"latitude": 54.5973,
-			"longitude": 5.9301
+			"latitude": 55.84,
+			"longitude": -4.31
 		},
 		"social": {
 			"twitter": "proton_moon",
